@@ -37,7 +37,7 @@ This README documents the complete engineering and analytical workflow behind th
 
 <div align="center">
 
-![Sales Performance Dashboard](screenshots/dasbord.png)
+![Sales Performance Dashboard](screenshots/dashboard-preview.png)
 
 </div>
 
