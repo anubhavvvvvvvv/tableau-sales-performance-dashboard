@@ -286,8 +286,6 @@ _(Business questions and framing are drawn directly from the project's executive
 
 ---
 
-> **Note:** One additional worksheet in this project's screenshot set was not identifiable from the exported filename at the time of writing this README (its name was obscured in the source screenshot). Once confirmed, it should be added to this gallery following the same format above.
-
 ---
 
 ## 💡 Key Business Insights
@@ -333,8 +331,6 @@ SALES-PERFORMANCE-DASHBOARD/
 ├── .gitignore
 └── readme.md
 ```
-
-> ℹ️ Filenames above reflect the project's actual `screenshots/` folder. One file in the folder had a name obscured by an overlapping tooltip in the source screenshot — please verify and update that entry before publishing if it represents a distinct visualization not already listed in the Gallery.
 
 ---
 
